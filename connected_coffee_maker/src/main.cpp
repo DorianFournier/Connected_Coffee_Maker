@@ -2,11 +2,8 @@
 #include <ESPAsyncWebServer.h>
 #include <SPIFFS.h>
 
-//const char* ssid = "iPhone de Dorian";
-//onst char* password = "Df150299";
-
-const char* ssid = "Livebox-0209";
-const char* password = "4612EA4513FE6C618F8CCF7C70";
+const char* ssid = "WifiName";
+const char* password = "yourPassword";
 
 const int startCoffeeMaker = 4;
 const int bigCoffee = 5;
