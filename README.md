@@ -29,7 +29,7 @@ _FINAL ASSEMBLY_ :
 <img width="500" alt="Capture d’écran 2021-07-09 à 11 29 37" src="https://user-images.githubusercontent.com/54947603/125058730-db1b6580-e0aa-11eb-82f5-0ca763584735.png">
 
 The relay is controlled with a GPIO pin and activates the power supply of the coffee maker. When you click "ON", a message appears (on the web app) saying : "Please wait a minute..." to give the time for the machine to warm up ! You also have in this example, the turn on of the green LED, and the turn off of the red LED. <br><br>
-For the 2 buttons, both are controlled with GPIO. When you cick on your coffee size, the pin goes to the high state for 0.5 second (just enough to activate the coffee maker).
+For the 2 buttons, both are controlled with GPIO. When you cick on your coffee size, the pin goes to the high state for a second (just enough to activate the coffee maker).
 <br>
 
 _SOURCES_ : 
