@@ -2,7 +2,7 @@
 
 _DESCRIPTION_ : 
 
-To control my coffee maker, I had to create a web server. It has been stored into an ESP32, with it, it's possible to control the power and the size of the coffee machine. <br><br>
+To control my coffee maker, I had to create a web server. It has been stored into an ESP32, with it, it's possible to control the power state of the machine and choose the size of the coffee. <br><br>
 I also added a water sensor to have the water level into the water tank. 
 
 _ESP32_ : 
